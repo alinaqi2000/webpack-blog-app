@@ -1,4 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Welcome to your new awesome webpack blogging app!
 
 This project has been created using **webpack-cli**, you can now run
 
